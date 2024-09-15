@@ -1,0 +1,34 @@
+# This is a YAML file
+my-course: "MLOps Course"
+version: 1.0
+price: 299
+is_public: true
+release_date: 2024-09-15
+pre_enroll: null
+category:
+ - MLOps
+ - ML
+ - ML Certification
+
+course_dev: ["johnny", "ronny", "tommy"]
+dev-details:
+ - name: "johnny"
+   email: "loco@coco.com"
+   role: "knee-capper"
+ - name: "ronny"
+   email: "moco@coco.com"
+   role: "key-napper"
+ - name: "tommy"
+   email: "noco@coco.com"
+   role: "stuff-notduar"
+ - {name: "tommy",email: "noco@coco.com", role: "stuff-notduar"}
+
+short_description: >
+ This is a course for
+ MLOps stuff
+ other stuff
+
+detailed_description: |
+ This course has been
+ created to rip off
+ ngers.
